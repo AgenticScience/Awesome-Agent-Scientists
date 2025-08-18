@@ -724,79 +724,79 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>AILA: Autonomous microscopy experiments through large language model agents</b></i>, Indrajeet Mandal, Jitendra Soni, Mohd Zaki, Morten M. Smedskjaer, Katrin Wondraczek, Lothar Wondraczek, Nitya Nand Gosvami, NM Krishnan. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2501.10385?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Foam-Agent: Towards Automated Intelligent CFD Workflows</b></i>, Ling Yue, Nithin Somasekharan, Yadi Cao, Shaowu Pan. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.04997?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>ChemGraph: An Agentic Framework for Computational Chemistry Workflows</b></i>, Thang D. Pham, Aditya Tanikanti, Murat Keçeli. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.06363?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge</b></i>, Bo Ni, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/am/pii/S2352431624000117" target="_blank">
       <img src="https://img.shields.io/badge/Extreme%20Mechanics%20Letters-2024-blue" alt="Extreme Mechanics Letters 2024">
     </a>
   </li>
   <li>
     <i><b>MatPilot: An LLM-enabled AI materials scientist under the framework of human-machine collaboration</b></i>, Ziqi Ni, Yahao Li, Kaijia Hu, Kunyuan Han, Ming Xu, Xingyu Chen, Fengqi Liu, Yicong Ye, Shuxin Bai. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2411.08063" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>LLMatDesign: Autonomous materials discovery with large language models</b></i>, Shuyi Jia, Chao Zhang, Victor Fung. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2406.13163" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>MAPPS: Toward Greater Autonomy in Materials Discovery Agents: Unifying Planning, Physics, and Scientists</b></i>, Lianhao Zhou, Hongyi Ling, Keqiang Yan, Kaiji Zhao, Xiaoning Qian, Raymundo Arróyave, Xiaofeng Qian, Shuiwang Ji. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.05616?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation</b></i>, Yuan Chiang, Elvis Hsieh, Chia-Hong Chou, Janosh Riebesell. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2401.17244" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>HoneyComb: A flexible LLM-based agent system for materials science</b></i>, Huan Zhang, Yu Song, Ziyu Hou, Santiago Miret, Bang Liu. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2409.00135?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Multicrossmodal Automated Agent for Integrating Diverse Materials Science Data</b></i>, Adib Bazgir, Yuwen Zhang, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.15132" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration</b></i>, Yingming Pu, Tao Lin, Hongyu Chen. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2505.15047" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>dZiner: Rational inverse design of materials with AI agents</b></i>, Mehrad Ansari, Jeffrey Watchorn, Carla E. Brown, Joseph S. Brown. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2410.03963" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents</b></i>, Shrinidhi Kumbhar, Venkatesh Mishra, Kevin Coutinho, Divij Handa, Ashif Iquebal, Chitta Baral. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2501.13299?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -809,37 +809,37 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2407.10022?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>Automating alloy design and discovery with physics-aware multimodal multiagent AI</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.pnas.org/doi/pdf/10.1073/pnas.2414074122" target="_blank">
       <img src="https://img.shields.io/badge/PNAS-2025-blue" alt="PNAS 2025">
     </a>
   </li>
   <li>
     <i><b>Rapid and automated alloy design with graph neural network-powered LLM-driven multi-agent systems</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2410.13768?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>metaAgent: Electromagnetic metamaterial discovery through multi-agent collaboration</b></i>, Jie Tian, Martin Taylor Sobczak, Dhanush Patil, Jixin Hou, Lin Pang, Arunachalam Ramanathan, Libin Yang, Xianyan Chen, Yuval Golan, Xiaoming Zhai, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.nature.com/articles/s41377-024-01678-w" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>CrossMatAgent: A Multi-Agent Framework for Accelerated Metamaterial Design</b></i>, Jie Tian, Martin Taylor Sobczak, Dhanush Patil, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aidi.202500063" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>An Agentic Framework for Autonomous Metamaterial Modeling and Inverse Design</b></i>, Darui Lu, Jordan M. Malof, Willie J. Padilla. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2506.06935" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -852,19 +852,19 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>SciAgents: Automating scientific discovery through bioinspired multi-agent intelligent graph reasoning</b></i>, Alireza Ghafarollahi, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://advanced.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adma.202413523" target="_blank">
       <img src="https://img.shields.io/badge/Advanced%20Materials-2025-blue" alt="Advanced Materials 2025">
     </a>
   </li>
   <li>
     <i><b>PriM: Principle-inspired material discovery through multi-agent collaboration</b></i>, Zheyuan Lai, Yingming Pu. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2504.08810" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>TopoMAS: Large Language Model Driven Topological Materials Multiagent System</b></i>, Baohua Zhang, Xin Li, Huangchao Xu, Zhong Jin, Quansheng Wu, Ce Li. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2507.04053" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -877,25 +877,25 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>MoRA: Improving physics reasoning in large language models using mixture of refinement agents</b></i>, Raj Jaiswal, Dhruv Jain, Harsh Parimal Popat, Avinash Anand, Abhishek Dharmadhikari, Atharva Marathe, Rajiv Ratn Shah. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2412.00821" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>LP-COMDA: Physics-informed LLM-agent for automated modulation design in power electronics systems</b></i>, Junhua Liu, Fanfan Lin, Xinze Li, Kwan Hui Lim, Shuai Zhao. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2411.14214?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>LLMSat: A large language model-based goal-oriented agent for autonomous space exploration</b></i>, David Maranto. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2405.01392" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>CosmoAgent: What if LLMs have different world views: Simulating alien civilizations with LLM-based agents</b></i>, Zhaoqian Xue, Beichen Wang, Suiyuan Zhu, Kai Mei, Hua Tang, Wenyue Hua, Mengnan Du, Yongfeng Zhang. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2402.13184" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
@@ -908,37 +908,31 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>StarWhisper: Agent-based observation assistant system to approach AI astrophysicist</b></i>, Cunshi Wang, Xinjie Hu, Yu Zhang, Xunhao Chen, Pengliang Du, Yiming Mao, Rui Wang, Yuyang Li, Ying Wu, Hang Yang, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2412.06412" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>mephisto: Interpreting multi-band galaxy observations with large language model-based agents</b></i>, Zechang Sun, Yuan-Sen Ting, Yaobo Liang, Nan Duan, Song Huang, Zheng Cai. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2409.14807" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
   <li>
     <i><b>AI Agents for ground-based gamma astronomy</b></i>, Dmitriy Kostunin, Vladimir Sotnikov, Sergo Golovachev, Alexandre Strube. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2503.00821?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
-    <i><b>AI Cosmologist I: An Agentic System for Automated Data Analysis</b></i>, Adam Moss. 
-    <a href="[链接待补充]" target="_blank">
+    <i><b>The AI Cosmologist I: An Agentic System for Automated Data Analysis</b></i>, Adam Moss. 
+    <a href="https://arxiv.org/pdf/2504.03424?" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
-    </a>
-  </li>
-  <li>
-    <i><b>MAS-Cosmology: Towards Agentic AI for Science: Hypothesis Generation, Comprehension, Quantification, and Validation</b></i>, Danai Koutra, Lifu Huang, Adithya Kulkarni, Temiloluwa Prioleau, Beatrice Wan Yuan Soh, Qingyun Wu, Yujun Yan, Yaoqing Yang, Dawei Zhou, James Zou. 
-    <a href="[链接待补充]" target="_blank">
-      <img src="https://img.shields.io/badge/ICLR%20Workshop-2025-blue" alt="ICLR Workshop 2025">
     </a>
   </li>
   <li>
     <i><b>SimAgents: Bridging Literature and the Universe Via A Multi-Agent Large Language Model System</b></i>, Xiaowen Zhang, Zhenyu Bi, Xuan Wang, Tiziana Di Matteo, Rupert A.C. Croft. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2507.08958" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -951,31 +945,31 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>OpenFOAMGPT: A RAG-augmented LLM agent for OpenFOAM-based computational fluid dynamics</b></i>, Sandeep Pandey, Ran Xu, Wenkang Wang, Xu Chu. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2501.06327" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>OpenFOAMGPT 2.0: End-to-end, trustworthy automation for computational fluid dynamics</b></i>, Jingsen Feng, Ran Xu, Xu Chu. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2504.19338" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>LLM-Agent: A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis</b></i>, Jiachen Liu, Ziheng Geng, Ran Cao, Lu Cheng, Paolo Bocchini, Minghui Cheng. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2507.02938" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
   <li>
     <i><b>MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge</b></i>, Bo Ni, Markus J. Buehler. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/am/pii/S2352431624000117" target="_blank">
       <img src="https://img.shields.io/badge/Extreme%20Mechanics%20Letters-2024-blue" alt="Extreme Mechanics Letters 2024">
     </a>
   </li>
   <li>
     <i><b>AutoGen-FEM: Optimizing Collaboration of Large Language Model Based Agents for Autonomous Finite Element Analysis</b></i>, Chuan Tian, et al. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5107557" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
@@ -988,7 +982,7 @@ Finally, **Our Key Contributions** are as follows:
 <ul>
   <li>
     <i><b>k-agents: Agents for self-driving laboratories applied to quantum computing</b></i>, Shuxiang Cao, Zijian Zhang, Mohammed Alghadeer, Simone D. Fasciati, Michele Piscitelli, Mustafa Bakr, Peter Leek, Alán Aspuru-Guzik. 
-    <a href="[链接待补充]" target="_blank">
+    <a href="https://arxiv.org/pdf/2412.07978" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
