@@ -649,8 +649,6 @@ Finally, **Our Key Contributions** are as follows:
   </li>
 </ul>
 
----
-
 ### Generative Chemistry and Molecular Design
 
 <ul>
@@ -685,8 +683,6 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
 </ul>
-
----
 
 ### Computational and Quantum Chemistry
 
@@ -802,8 +798,6 @@ Finally, **Our Key Contributions** are as follows:
   </li>
 </ul>
 
----
-
 ### Structural and Functional Materials
 
 <ul>
@@ -844,8 +838,6 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
 </ul>
-
----
 
 ### Advanced and Quantum Materials
 
@@ -901,8 +893,6 @@ Finally, **Our Key Contributions** are as follows:
   </li>
 </ul>
 
----
-
 ### Astronomy and Cosmology
 
 <ul>
@@ -937,8 +927,6 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
 </ul>
-
----
 
 ### Computational Mechanics and Fluid Dynamics
 
@@ -975,8 +963,6 @@ Finally, **Our Key Contributions** are as follows:
   </li>
 </ul>
 
----
-
 ### Quantum Computing
 
 <ul>
@@ -988,6 +974,7 @@ Finally, **Our Key Contributions** are as follows:
   </li>
 </ul>
 
+***
 
 ## 👏 Contributing
 
@@ -996,6 +983,8 @@ Contributions are highly encouraged!
 If you have a relevant paper that complements this taxonomy, feel free to submit a pull request or reach out to the author directly. 
 
 Your support will help expand and improve this repository!
+
+***
 
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:
