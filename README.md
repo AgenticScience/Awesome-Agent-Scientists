@@ -28,7 +28,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
-**{weijiaqi, yangyuejin}@pjlab.org.cn | xzhang23@ualberta.ca**
+**{weijiaqi, yangyuejin}@pjlab.org.cn | `zzhang23@ualberta.ca`**
 
 
 </div>
