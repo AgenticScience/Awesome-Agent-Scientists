@@ -989,11 +989,12 @@ Your support will help expand and improve this repository!
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:
 ```bibtex
-@article{your_project_name,
-  title = {Your Project Title},
-  author = {Your Name and Collaborators},
-  journal = {arXiv preprint arXiv:YOUR_ARXIV_ID},
-  year = {2024},
-  url = {https://arxiv.org/abs/YOUR_ARXIV_ID},
-  eprint = {arXiv:YOUR_ARXIV_ID}
+@misc{wei2025aiscienceagenticscience,
+      title={From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery}, 
+      author={Jiaqi Wei and Yuejin Yang and Xiang Zhang and Yuhan Chen and Xiang Zhuang and Zhangyang Gao and Dongzhan Zhou and Guangshuai Wang and Zhiqiang Gao and Juntai Cao and Zijie Qiu and Xuming He and Qiang Zhang and Chenyu You and Shuangjia Zheng and Ning Ding and Wanli Ouyang and Nanqing Dong and Yu Cheng and Siqi Sun and Lei Bai and Bowen Zhou},
+      year={2025},
+      eprint={2508.14111},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2508.14111}, 
 }
