@@ -1000,6 +1000,8 @@ If you find this project helpful in your research, please consider cite:
       url={https://arxiv.org/abs/2508.14111}, 
 }
 
-## 🌟 Star History
+***
+
+<h2>🌟 Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AgenticScience/Awesome-Agent-Scientists&type=Date)](https://www.star-history.com/#AgenticScience/Awesome-Agent-Scientists&Date) 
