@@ -985,7 +985,6 @@ If you have a relevant paper that complements this taxonomy, feel free to submit
 
 Your support will help expand and improve this repository!
 
-***
 
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:
@@ -1001,7 +1000,6 @@ If you find this project helpful in your research, please consider cite:
 }
 ```
 
-***
 
 <h2>🌟 Star History</h2>
 
