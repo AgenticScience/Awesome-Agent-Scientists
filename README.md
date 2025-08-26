@@ -24,7 +24,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 
 
-🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://agenticscience.github.io/) or [homepage](https://agenticscience.github.io/)~
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
 ✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
 
@@ -999,3 +999,7 @@ If you find this project helpful in your research, please consider cite:
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2508.14111}, 
 }
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AgenticScience/Awesome-Agent-Scientists&type=Date)](https://www.star-history.com/#AgenticScience/Awesome-Agent-Scientists&Date) 
