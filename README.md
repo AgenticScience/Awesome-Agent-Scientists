@@ -22,6 +22,14 @@ showcases **how AI/Agent is becoming a creative scientist, accelerating and resh
 
 Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
+🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
+
+✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
+
+**`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
+
+</div>
+
 ## 📖 Citation
 If you find this project helpful in your research, please consider cite:
 ```bibtex
@@ -45,16 +53,6 @@ In addition, "Awesome-Scientific-Datasets-and-LLMs" highlights the latest advanc
       url={https://arxiv.org/abs/2508.21148}, 
 }
 ```
-
-
-🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
-
-✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
-
-**`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
-
-
-</div>
 
 ## 👋 Introduction 
 
