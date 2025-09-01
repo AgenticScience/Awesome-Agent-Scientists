@@ -41,7 +41,7 @@ If you find this project helpful in your research, please consider cite:
 }
 ```
 
-In addition, "Awesome-Scientific-Datasets-and-LLMs" highlights the latest advances of scientific datasets and LLMs, which nicely complements our work.
+In addition, "[Awesome-Scientific-Datasets-and-LLMs](https://github.com/open-sciencelab/Awesome-Scientific-Datasets-and-LLMs)" highlights the latest advances of scientific datasets and LLMs, which nicely complements our work.
 ```bibtex
 @misc{hu2025surveyscientificlargelanguage,
       title={A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers}, 
