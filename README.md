@@ -22,6 +22,29 @@ showcases **how AI/Agent is becoming a creative scientist, accelerating and resh
 
 Explore this detailed repository to understand how autonomous agents are revolutionizing natural science!
 
+## 📖 Citation
+If you find this project helpful in your research, please consider cite:
+```bibtex
+@article{wei2025ai,
+  title={From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery},
+  author={Wei, Jiaqi and Yang, Yuejin and Zhang, Xiang and Chen, Yuhan and Zhuang, Xiang and Gao, Zhangyang and Zhou, Dongzhan and Wang, Guangshuai and Gao, Zhiqiang and Cao, Juntai and others},
+  journal={arXiv preprint arXiv:2508.14111},
+  year={2025}
+}
+```
+
+In addition, "Awesome-Scientific-Datasets-and-LLMs" highlights the latest advances of scientific datasets and LLMs, which nicely complements our work.
+```bibtex
+@misc{hu2025surveyscientificlargelanguage,
+      title={A Survey of Scientific Large Language Models: From Data Foundations to Agent Frontiers}, 
+      author={Ming Hu and Chenglong Ma and Wei Li and Wanghan Xu and Jiamin Wu and Jucheng Hu and Tianbin Li and Guohang Zhuang and Jiaqi Liu and Yingzhou Lu and Ying Chen and Chaoyang Zhang and Cheng Tan and Jie Ying and Guocheng Wu and Shujian Gao and Pengcheng Chen and Jiashi Lin and Haitao Wu and Lulu Chen and Fengxiang Wang and Yuanyuan Zhang and Xiangyu Zhao and Feilong Tang and Encheng Su and Junzhi Ning and Xinyao Liu and Ye Du and Changkai Ji and Cheng Tang and Huihui Xu and Ziyang Chen and Ziyan Huang and Jiyao Liu and Pengfei Jiang and Yizhou Wang and Chen Tang and Jianyu Wu and Yuchen Ren and Siyuan Yan and Zhonghua Wang and Zhongxing Xu and Shiyan Su and Shangquan Sun and Runkai Zhao and Zhisheng Zhang and Yu Liu and Fudi Wang and Yuanfeng Ji and Yanzhou Su and Hongming Shan and Chunmei Feng and Jiahao Xu and Jiangtao Yan and Wenhao Tang and Diping Song and Lihao Liu and Yanyan Huang and Lequan Yu and Bin Fu and Shujun Wang and Xiaomeng Li and Xiaowei Hu and Yun Gu and Ben Fei and Zhongying Deng and Benyou Wang and Yuewen Cao and Minjie Shen and Haodong Duan and Jie Xu and Yirong Chen and Fang Yan and Hongxia Hao and Jielan Li and Jiajun Du and Yanbo Wang and Imran Razzak and Chi Zhang and Lijun Wu and Conghui He and Zhaohui Lu and Jinhai Huang and Yihao Liu and Fenghua Ling and Yuqiang Li and Aoran Wang and Qihao Zheng and Nanqing Dong and Tianfan Fu and Dongzhan Zhou and Yan Lu and Wenlong Zhang and Jin Ye and Jianfei Cai and Wanli Ouyang and Yu Qiao and Zongyuan Ge and Shixiang Tang and Junjun He and Chunfeng Song and Lei Bai and Bowen Zhou},
+      year={2025},
+      eprint={2508.21148},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.21148}, 
+}
+```
 
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
@@ -985,17 +1008,6 @@ If you have a relevant paper that complements this taxonomy, feel free to submit
 
 Your support will help expand and improve this repository!
 
-
-## 📖 Citation
-If you find this project helpful in your research, please consider cite:
-```bibtex
-@article{wei2025ai,
-  title={From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery},
-  author={Wei, Jiaqi and Yang, Yuejin and Zhang, Xiang and Chen, Yuhan and Zhuang, Xiang and Gao, Zhangyang and Zhou, Dongzhan and Wang, Guangshuai and Gao, Zhiqiang and Cao, Juntai and others},
-  journal={arXiv preprint arXiv:2508.14111},
-  year={2025}
-}
-```
 
 
 <h2>🌟 Star History</h2>
