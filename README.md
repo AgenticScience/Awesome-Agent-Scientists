@@ -1008,6 +1008,6 @@ Your support will help expand and improve this repository!
 
 
 
-<h2>🌟 Star History</h2>
+<h2>📅 Star History</h2>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AgenticScience/Awesome-Agent-Scientists&type=Date)](https://www.star-history.com/#AgenticScience/Awesome-Agent-Scientists&Date) 
