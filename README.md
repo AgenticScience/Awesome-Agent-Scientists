@@ -159,7 +159,13 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
   <li>
-    <i><b>Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback</b></i>, Jiakang Yuan et al. 
+    <i><b>aiXiv: A Next-Generation Open-Access Platform for AI-Generated Research</b></i>, Pengsong Zhang et al. 
+    <a href="https://arxiv.org/pdf/2508.15126" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>Dolphin: Closed-loop open-ended auto-research through thinking, practice, and feedback</b></i>, Jiakang Yuan et al.
     <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250103916Y/abstract" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
@@ -351,7 +357,19 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
   <li>
-    <i><b>CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments</b></i>, Kaixuan Huang et al. 
+    <i><b>GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis</b></i>, Haoyang Liu et al. 
+    <a href="https://arxiv.org/pdf/2406.15341" target="_blank">
+      <img src="https://img.shields.io/badge/MLCB-2025-green" alt="MLCB 2025 Oral">
+    </a>
+  </li>
+  <li>
+    <i><b>GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis</b></i>, Haoyang Liu et al. 
+    <a href="https://arxiv.org/pdf/2507.21035" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
+  <li>
+    <i><b>CRISPR-GPT: An LLM Agent for Automated Design of Gene-Editing Experiments</b></i>, Kaixuan Huang et al.
     <a href="https://arxiv.org/pdf/2404.18021" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
