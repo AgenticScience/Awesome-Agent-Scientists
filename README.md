@@ -926,6 +926,14 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
   <li>
+  <i><b>ArgoLOOM: Agentic AI for Fundamental Physics from Quarks to Cosmos</b></i>, 
+  S. D. Bakshi, P. Barry, C. Bissolotti, I. Cloet, S. Corrodi, Z. Djurcic, S. Habib, K. Heitmann, 
+  T. J. Hobbs, W. Hopkins, S. Joosten, B. Kriesten, N. Ramachandran, A. Wells, M. Zurek. 
+  <a href="https://arxiv.org/pdf/2510.02426" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+  </a>
+  </li>
+  <li>
     <i><b>CosmoAgent: What if LLMs have different world views: Simulating alien civilizations with LLM-based agents</b></i>, Zhaoqian Xue, Beichen Wang, Suiyuan Zhu, Kai Mei, Hua Tang, Wenyue Hua, Mengnan Du, Yongfeng Zhang. 
     <a href="https://arxiv.org/pdf/2402.13184" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
