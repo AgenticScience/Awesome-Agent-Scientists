@@ -304,6 +304,13 @@ Finally, **Our Key Contributions** are as follows:
     </a>
   </li>
   <li>
+  <i><b>m-KAILIN: A Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training</b></i>, 
+  Meng Xiao et al. 
+  <a href="https://arxiv.org/pdf/2504.19565">
+    <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+  </a>
+  </li>
+  <li>
     <i><b>STELLA: Self-Evolving LLM Agent for Biomedical Research</b></i>, Ruofan Jin et al. 
     <a href="https://arxiv.org/pdf/2507.02004" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
@@ -836,6 +843,13 @@ Finally, **Our Key Contributions** are as follows:
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
     </a>
   </li>
+  <li>
+  <i><b>AutoMat: Enabling Automated Crystal Structure Reconstruction from Microscopy via Agentic Tool Use</b></i>, 
+  Yaotian Yang, Yiwen Tang, Yizhe Chen, Xiao Chen, Jiangjie Qiu, Hao Xiong, Haoyu Yin, Zhiyao Luo, Yifei Zhang, Sijia Tao, Wentao Li, Qinghua Zhang, Yuqiang Li, Wanli Ouyang, Bin Zhao, Xiaonan Wang, Fei Wei.
+  <a href="https://arxiv.org/pdf/2505.12650" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+  </a>
+  </li>
 </ul>
 
 ### Structural and Functional Materials
@@ -930,6 +944,13 @@ Finally, **Our Key Contributions** are as follows:
   S. D. Bakshi, P. Barry, C. Bissolotti, I. Cloet, S. Corrodi, Z. Djurcic, S. Habib, K. Heitmann, 
   T. J. Hobbs, W. Hopkins, S. Joosten, B. Kriesten, N. Ramachandran, A. Wells, M. Zurek. 
   <a href="https://arxiv.org/pdf/2510.02426" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+  </a>
+  </li>
+  <li>
+  <i><b>Agentic AI for Multi-Stage Physics Experiments at a Large-Scale User Facility Particle Accelerator</b></i>, 
+  Thorsten Hellert, Drew Bertwistle, Simon C. Leemann, Antonin Sulc, Marco Venturini.
+  <a href="https://arxiv.org/pdf/2509.17255" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
   </a>
   </li>
