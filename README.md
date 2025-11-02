@@ -290,6 +290,12 @@ Finally, **Our Key Contributions** are as follows:
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
     </a>
   </li>
+  <li>
+    <i><b>DeepAnalyze: Agentic Large Language Models for Autonomous Data Science</b></i>, Shaolei Zhang et al. 
+    <a href="https://arxiv.org/pdf/2510.16872" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
+    </a>
+  </li>
 </ul>
 
 ## Part 1: Agentic Life Science Research
