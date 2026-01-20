@@ -9,7 +9,7 @@
 
   [![Project Homepage](https://img.shields.io/badge/Homepage-Visit-lightblue)](https://agenticscience.github.io/)
   [![arXiv](https://img.shields.io/badge/arXiv-AgenticScience-red)](https://arxiv.org/abs/2508.14111)
-  [![Citation](https://img.shields.io/badge/citation-20-yellow)](https://example.com/citations)
+  [![Citation](https://img.shields.io/badge/citation-30-yellow)](https://example.com/citations)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
   <br> 
@@ -24,7 +24,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
-✉️ ➡️ 📪 If you have any questions, please feel free to contact us at:
+✉️ ➡️ 📪 If you have any questions, please feel free to contact the leading authors at:
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
 
