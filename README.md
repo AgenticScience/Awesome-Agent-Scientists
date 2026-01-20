@@ -24,7 +24,7 @@ Explore this detailed repository to understand how autonomous agents are revolut
 
 🔔 🔔 🔔 For more detailed information, please refer to [our paper](https://arxiv.org/abs/2508.14111) or [homepage](https://agenticscience.github.io/)~
 
-✉️ ➡️ 📪 If you have any questions, please feel free to contact the leading authors at:
+✉️ ➡️ 📪 If you have any questions, please feel free to contact **the lead authors** at:
 
 **`{weijiaqi, yangyuejin}@pjlab.org.cn` | `xzhang23@ualberta.ca`**
 
