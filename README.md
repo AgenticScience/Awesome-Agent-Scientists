@@ -1007,6 +1007,12 @@ Finally, **Our Key Contributions** are as follows:
 
 <ul>
   <li>
+    <i><b>AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing</b></i>, Jianda Du, Youran Sun, Haizhao Yang. 
+    <a href="https://arxiv.org/pdf/2602.17607" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2026-red" alt="arXiv 2026">
+    </a>
+  </li>
+  <li>
     <i><b>OpenFOAMGPT: A RAG-augmented LLM agent for OpenFOAM-based computational fluid dynamics</b></i>, Sandeep Pandey, Ran Xu, Wenkang Wang, Xu Chu. 
     <a href="https://arxiv.org/pdf/2501.06327" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2025-red" alt="arXiv 2025">
