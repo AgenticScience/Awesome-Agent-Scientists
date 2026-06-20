@@ -340,6 +340,12 @@ Finally, **Our Key Contributions** are as follows:
       <img src="https://img.shields.io/badge/Cell-2024-blue" alt="Cell 2024">
     </a>
   </li>
+  <li>
+    <i><b>AutoZyme: An Autonomous Agentic Framework to Optimize Bioinformatics Software</b></i>, Elliot Xie et al. 
+    <a href="https://www.biorxiv.org/content/10.64898/2026.06.12.731250v1" target="_blank">
+      <img src="https://img.shields.io/badge/bioRxiv-2026-red" alt="bioRxiv 2026">
+    </a>
+  </li>
 </ul>
 
 ### Genomics, Transcriptomics and Multi-Omics Analysis
