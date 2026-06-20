@@ -346,6 +346,12 @@ Finally, **Our Key Contributions** are as follows:
 
 <ul>
   <li>
+    <i><b>CASSIA: a multi-agent large language model for automated and interpretable cell annotation</b></i>, Elliot Xie et al. 
+    <a href="https://www.nature.com/articles/s41467-025-67084-x" target="_blank">
+      <img src="https://img.shields.io/badge/Nature%20Communications-2025-blue" alt="Nature Communications 2025">
+    </a>
+  </li>
+  <li>
     <i><b>GeneAgent: Self-verification Language Agent for Gene Set Knowledge Discovery using Domain Databases</b></i>, Zhizheng Wang et al. 
     <a href="https://arxiv.org/abs/2405.16205" target="_blank">
       <img src="https://img.shields.io/badge/arXiv-2024-red" alt="arXiv 2024">
