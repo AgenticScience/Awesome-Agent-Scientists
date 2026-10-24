@@ -302,6 +302,24 @@ Finally, **Our Key Contributions** are as follows:
       <img src="https://img.shields.io/badge/Preprints-2026-red" alt="Preprints 2026">
     </a>
   </li>
+  <li>
+    <i><b>SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents</b></i>, Youran Sun et al. 
+    <a href="https://arxiv.org/pdf/2610.21082" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2026-red" alt="arXiv 2026">
+    </a>
+    <a href="https://github.com/AutoResearch-Factory/SciPIvot" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-code-blue" alt="GitHub code">
+    </a>
+  </li>
+  <li>
+    <i><b>Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy</b></i>, Youran Sun et al. 
+    <a href="https://arxiv.org/pdf/2606.24177" target="_blank">
+      <img src="https://img.shields.io/badge/arXiv-2026-red" alt="arXiv 2026">
+    </a>
+    <a href="https://github.com/AutoResearch-Factory/Agon" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-code-blue" alt="GitHub code">
+    </a>
+  </li>
 </ul>
 
 ## Part 1: Agentic Life Science Research
